@@ -11,7 +11,6 @@ Zynth Labs is an AI agent & automation studio — we build practical AI agents, 
 ## Featured projects
 
 - **[Contract Scout](https://github.com/zynthlabsio/contract-scout)** — an OpenMinion agent that safety-checks EVM contracts with an authored `contract_check` tool.
-- **[AgentBadge](https://github.com/zynthlabsio/agentbadge)** — a free NFT badge gated by Binance Agent ID (.ai) ownership.
 - **[ReactiveGuard](https://github.com/zynthlabsio/reactive-guard)** — a self-firing reactive stop-loss for DEX positions.
 - **[CryptoGlance](https://github.com/zynthlabsio/cryptoglance)** — a simple, fast crypto tracker.
 
