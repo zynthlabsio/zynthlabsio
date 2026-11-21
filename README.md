@@ -17,4 +17,5 @@ Zynth Labs is an AI agent & automation studio — we build practical AI agents, 
 
 ## Contact
 
-- 💼 [Contra](https://contra.com/zynthlabs)
+- 🌐 [Website](https://zynthlabs.cloudzyro.app)
+- 🤝 [NEAR Market](https://maungzy.market.near.ai)
