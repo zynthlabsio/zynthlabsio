@@ -10,8 +10,13 @@
 
 ## Proof of work
 
-- 30+ bug bounty reports submitted across **Sorona**, **BugRap** and **BNB Chain** programs — including High-severity findings backed by end-to-end video proofs of concept.
+- 35+ vulnerability reports submitted across **HackenProof**, **Sorona**, **BugRap** and **BNB Chain** programs — including High-severity findings backed by end-to-end video proofs of concept.
+- Four on-chain treasury audits delivered for a paying marketplace, each reconciled exact to the wei against archive-node balances — all public: [Q103](https://github.com/zynthlabsio/flapjax-q103-audit) · [Q104](https://github.com/zynthlabsio/flapjax-q104-audit) · [Q105](https://github.com/zynthlabsio/flapjax-q105-audit) · [Q106](https://github.com/zynthlabsio/flapjax-q106-audit)
 - Public tools and experiments in the repos below — including **Contract Scout**, an agent that safety-checks EVM contracts.
+
+## Samples
+
+Real deliverables, published before you order: **[github.com/zynthlabsio/samples](https://github.com/zynthlabsio/samples)** — a sourced B2B lead list (CSV), a research brief, and a technical article with checked code.
 
 ## Featured projects
 
